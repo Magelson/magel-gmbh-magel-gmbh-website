@@ -3,23 +3,23 @@ enable: true
 title: "Our main services"
 text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
 cards:
-  - image: "images/services-web-development.png"
-    title: "Web development"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+  - image: "images/application.png"
+    title: "Application / Service"
+    text: "You need a service, a calculation or an API that does exactly what you want? We design and build the solution for you. The solution can be delivered as a one-time-deliverable, where you manage the software, patches, security and scalability. Optionally we can host the application as a subscription model."
     button:
-      label: "Learn more"
+      label: "whole product"
       link: "#"
 
-  - image: "images/services-web-development.png"
-    title: "Web development"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+  - image: "images/script.png"
+    title: "Software development and data engineering"
+    text: "You have a running system but you are missing pieces. No time or no knowledge to provide the solutions? This is where we can help. We can take over parts of your software development or data engineering tasks. You define the requirements, we deliver the solution."
     button:
-      label: "Learn more"
+      label: "software"
       link: "#"
 
-  - image: "images/services-web-development.png"
-    title: "Web development"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+  - image: "images/review.png"
+    title: "Review, Analysis and Planning"
+    text: "You already have some system, infrastructure, automation or software in place,  you have the manpower and knowledge to go further? Let´s review your setup and identify risks and opportunities. Think about your next steps before you need to revert them."
     button:
-      label: "Learn more"
+      label: "review"
       link: "#"

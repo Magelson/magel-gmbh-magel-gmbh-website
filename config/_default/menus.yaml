@@ -1,23 +1,23 @@
 main:
   - name: "Home"
-    url: "/#hero"
+    url: "/"
     weight: 1
 
-  - name: "How we work"
-    url: "/#"
+  - name: "Vision"
+    url: "#vision"
     weight: 2
 
-  - name: "Our team"
-    url: "/#"
+  - name: "Services"
+    url: "#Services"
     weight: 3
 
-  - name: "Pricing"
-    url: "/#"
-    weight: 4
+  # - name: "Pricing"
+  #   url: "/#"
+  #   weight: 4
 
-  - name: "Blog"
-    url: "/blog"
-    weight: 5
+  # - name: "Blog"
+  #   url: "/blog"
+  #   weight: 5
 
 buttons:
   - name: "Book a call"
@@ -26,21 +26,21 @@ buttons:
 
 footer:
   - name: "Home"
-    url: "/#hero"
+    url: "/"
     weight: 1
 
-  - name: "How we work"
-    url: "/#"
+  - name: "Vision"
+    url: "#vision"
     weight: 2
 
-  - name: "Our team"
-    url: "/#"
+  - name: "Services"
+    url: "#services"
     weight: 3
 
-  - name: "Pricing"
-    url: "/#"
-    weight: 4
+  # - name: "Pricing"
+  #   url: "/#"
+  #   weight: 4
 
-  - name: "Blog"
-    url: "/blog"
-    weight: 5
+  # - name: "Blog"
+  #   url: "/blog"
+  #   weight: 5

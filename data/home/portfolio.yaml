@@ -2,37 +2,37 @@ enable: true
 
 items:
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "Vision"
+    title: "Innovation made simple"
+    text: "We believe software should empower people, not overwhelm them. That’s why our solutions are built on the principle of poka-yoke: simple, intuitive designs that guide users naturally and reduce the chance of mistakes. In today’s world, tools are often overloaded with unnecessary features, frameworks, and complexity. We take the opposite approach. We strip away what’s not needed and focus on the core functionality that truly makes a difference. Our vision is to create software that feels natural, adapts to the way people think, and solves real problems without overengineering. Clear, efficient, and purposeful — that’s how we build the future."
 
     buttons: 
       - label: "See live"
-        link: "#"
+        link: "#home"
 
       - label: "Read more"
         link: "#"
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  # - image: "images/portfolio-ecommerce.png"
+  #   pretitle: "Portfolio Service"
+  #   title: "We developed an eCommerce website"
+  #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
 
-    buttons: 
-      - label: "See live"
-        link: "#"
+  #   buttons: 
+  #     - label: "See live"
+  #       link: "#"
 
-      - label: "Read more"
-        link: "#"
+  #     - label: "Read more"
+  #       link: "#"
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  # - image: "images/portfolio-ecommerce.png"
+  #   pretitle: "Portfolio Service"
+  #   title: "We developed an eCommerce website"
+  #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
 
-    buttons: 
-      - label: "See live"
-        link: "#"
+  #   buttons: 
+  #     - label: "See live"
+  #       link: "#"
 
-      - label: "Read more"
-        link: "#"
+  #     - label: "Read more"
+  #       link: "#"

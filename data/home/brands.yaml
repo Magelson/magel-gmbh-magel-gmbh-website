@@ -1,9 +1,8 @@
 enable: true
 
-title: "We work with customers brands and startups "
+title: "We set on experienced frameworks"
 items:
-  - "images/brands-samsumg.png"
-  - "images/brands-google.png"
-  - "images/brands-adobe.png"
-  - "images/brands-spotify.png"
-  - "images/brands-dropbox.png"
+  - "images/aws.png"
+  - "images/python.png"
+  - "images/terraform.png"
+  # - "images/devops.png"
