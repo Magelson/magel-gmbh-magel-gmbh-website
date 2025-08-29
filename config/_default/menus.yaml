@@ -8,7 +8,7 @@ main:
     weight: 2
 
   - name: "Services"
-    url: "#Services"
+    url: "#services"
     weight: 3
 
   # - name: "Pricing"

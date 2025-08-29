@@ -5,9 +5,9 @@ text: "We build smart software solutions and simple tools that remove friction f
 
 buttons:
   - label: "Vision"
-    link: "#vision"
+    url: "#vision"
 
   - label: "Services"
-    link: "#"
+    url: "#services"
 
 image: "images/hero-image.png"
