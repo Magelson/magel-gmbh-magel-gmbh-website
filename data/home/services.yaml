@@ -1,7 +1,7 @@
 enable: true
 
 title: "Our services"
-text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+text: "We help you to achieve your goals. We provide services in the areas of software development, data engineering and cloud infrastructure. We can take over complete projects or support you with specific tasks. We are your partner for your IT needs and you decide how much want to do on your own."
 cards:
   - image: "images/application.png"
     title: "Application / Service"
