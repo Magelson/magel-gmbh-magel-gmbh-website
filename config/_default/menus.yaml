@@ -20,8 +20,8 @@ main:
   #   weight: 5
 
 buttons:
-  - name: "Book a call"
-    url: "/#"
+  - name: "Contact us"
+    url: "mailto:magel-gmbh@outlook.de"
     weight: 5
 
 footer:
