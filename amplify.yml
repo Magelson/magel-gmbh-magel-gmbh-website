@@ -40,6 +40,11 @@ frontend:
         - rm "hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
         - export PATH="${HOME}/.local/hugo:${PATH}"
 
+        # Install TailwindCSS CLI
+        - echo "Installing TailwindCSS CLI..."
+        - npm install --save-dev tailwindcss @tailwindcss/cli
+        - "echo TailwindCSS: $(tailwindcss -v)"
+
         # Verify installations
         - echo "Verifying installations..."
         - "echo Dart Sass: $(sass --version)"
